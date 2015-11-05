@@ -1,0 +1,149 @@
+Added Component: Designator=C?(RAD-0.3)
+Added Component: Designator=C?(RAD-0.3)
+Added Component: Designator=C?(RAD-0.3)
+Added Component: Designator=C?(RAD-0.3)
+Added Component: Designator=C?(RAD-0.3)
+Added Component: Designator=C?(RAD-0.3)
+Added Component: Designator=C?(RAD-0.3)
+Added Component: Designator=C?(RAD-0.3)
+Added Component: Designator=C?(RAD-0.3)
+Added Component: Designator=C?(RAD-0.3)
+Added Component: Designator=C?(RAD-0.3)
+Added Component: Designator=C?(RAD-0.3)
+Added Component: Designator=C?(RAD-0.3)
+Added Component: Designator=C?(RAD-0.3)
+Added Component: Designator=C?(RAD-0.3)
+Added Component: Designator=C?(RAD-0.3)
+Added Component: Designator=C?(RAD-0.3)
+Added Component: Designator=C?(RAD-0.3)
+Added Component: Designator=C?(RAD-0.3)
+Added Component: Designator=C?(RAD-0.3)
+Added Component: Designator=C?(RAD-0.3)
+Added Component: Designator=C?(RAD-0.3)
+Added Component: Designator=D?(DO-204AL)
+Added Component: Designator=D?(3.5X2.8X1.9)
+Added Component: Designator=D?(SMB)
+Added Component: Designator=D?(DO-204AL)
+Added Component: Designator=D?(3.5X2.8X1.9)
+Added Component: Designator=D?(SMB)
+Added Component: Designator=L?(0402-A)
+Added Component: Designator=L?(0402-A)
+Added Component: Designator=P?(HDR1X4)
+Added Component: Designator=P?(HDR1X4)
+Added Component: Designator=P?(HDR1X2)
+Added Component: Designator=P?(HDR1X4)
+Added Component: Designator=P?(HDR1X4)
+Added Component: Designator=P?(HDR1X2)
+Added Component: Designator=R?(J1-0603)
+Added Component: Designator=R?(VR5)
+Added Component: Designator=R?(J1-0603)
+Added Component: Designator=R?(J1-0603)
+Added Component: Designator=R?(J1-0603)
+Added Component: Designator=R?(J1-0603)
+Added Component: Designator=R?(J1-0603)
+Added Component: Designator=R?(J1-0603)
+Added Component: Designator=R?(J1-0603)
+Added Component: Designator=R?(VR5)
+Added Component: Designator=R?(J1-0603)
+Added Component: Designator=R?(J1-0603)
+Added Component: Designator=R?(J1-0603)
+Added Component: Designator=R?(J1-0603)
+Added Component: Designator=R?(J1-0603)
+Added Component: Designator=R?(J1-0603)
+Added Net: Name=BG
+Added Pin To Net: NetName=FREQ Pin=C?-2
+Added Pin To Net: NetName=FREQ Pin=C?-2
+Added Pin To Net: NetName=FREQ Pin=R?-2
+Added Pin To Net: NetName=FREQ Pin=R?-2
+Added Net: Name=FREQ
+Added Pin To Net: NetName=ITH Pin=C?-2
+Added Pin To Net: NetName=ITH Pin=C?-2
+Added Pin To Net: NetName=ITH Pin=R?-2
+Added Pin To Net: NetName=ITH Pin=R?-2
+Added Net: Name=ITH
+Added Pin To Net: NetName=NetC?_1 Pin=C?-1
+Added Pin To Net: NetName=NetC?_1 Pin=R?-1
+Added Net: Name=NetC?_1
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=D?-2
+Added Net: Name=NetC?_2
+Added Pin To Net: NetName=NetD?_1 Pin=D?-1
+Added Pin To Net: NetName=NetD?_1 Pin=R?-2
+Added Net: Name=NetD?_1
+Added Pin To Net: NetName=NetR?_1 Pin=R?-1
+Added Pin To Net: NetName=NetR?_1 Pin=R?-1
+Added Net: Name=NetR?_1
+Added Pin To Net: NetName=PGOOD Pin=R?-1
+Added Pin To Net: NetName=PGOOD Pin=R?-1
+Added Net: Name=PGOOD
+Added Net: Name=PLLIN
+Added Net: Name=RUN
+Added Pin To Net: NetName=SENSE+ Pin=C?-1
+Added Pin To Net: NetName=SENSE+ Pin=C?-1
+Added Pin To Net: NetName=SENSE+ Pin=R?-1
+Added Pin To Net: NetName=SENSE+ Pin=R?-1
+Added Pin To Net: NetName=SENSE+ Pin=R?-2
+Added Pin To Net: NetName=SENSE+ Pin=R?-2
+Added Net: Name=SENSE+
+Added Pin To Net: NetName=SENSE- Pin=C?-2
+Added Pin To Net: NetName=SENSE- Pin=C?-2
+Added Pin To Net: NetName=SENSE- Pin=L?-2
+Added Pin To Net: NetName=SENSE- Pin=L?-2
+Added Pin To Net: NetName=SENSE- Pin=R?-2
+Added Pin To Net: NetName=SENSE- Pin=R?-2
+Added Net: Name=SENSE-
+Added Pin To Net: NetName=SGND Pin=C?-1
+Added Pin To Net: NetName=SGND Pin=C?-1
+Added Pin To Net: NetName=SGND Pin=C?-1
+Added Pin To Net: NetName=SGND Pin=C?-1
+Added Pin To Net: NetName=SGND Pin=C?-1
+Added Pin To Net: NetName=SGND Pin=C?-1
+Added Pin To Net: NetName=SGND Pin=C?-1
+Added Pin To Net: NetName=SGND Pin=C?-1
+Added Pin To Net: NetName=SGND Pin=C?-1
+Added Pin To Net: NetName=SGND Pin=C?-1
+Added Pin To Net: NetName=SGND Pin=C?-1
+Added Pin To Net: NetName=SGND Pin=C?-1
+Added Pin To Net: NetName=SGND Pin=C?-2
+Added Pin To Net: NetName=SGND Pin=C?-2
+Added Pin To Net: NetName=SGND Pin=D?-2
+Added Pin To Net: NetName=SGND Pin=D?-2
+Added Pin To Net: NetName=SGND Pin=P?-1
+Added Pin To Net: NetName=SGND Pin=P?-1
+Added Pin To Net: NetName=SGND Pin=R?-1
+Added Pin To Net: NetName=SGND Pin=R?-1
+Added Pin To Net: NetName=SGND Pin=R?-2
+Added Pin To Net: NetName=SGND Pin=R?-2
+Added Net: Name=SGND
+Added Pin To Net: NetName=SW Pin=C?-1
+Added Pin To Net: NetName=SW Pin=C?-1
+Added Pin To Net: NetName=SW Pin=L?-1
+Added Pin To Net: NetName=SW Pin=L?-1
+Added Pin To Net: NetName=SW Pin=R?-1
+Added Pin To Net: NetName=SW Pin=R?-1
+Added Net: Name=SW
+Added Net: Name=TG
+Added Pin To Net: NetName=TRACK Pin=C?-2
+Added Pin To Net: NetName=TRACK Pin=C?-2
+Added Net: Name=TRACK
+Added Pin To Net: NetName=VFB Pin=C?-2
+Added Pin To Net: NetName=VFB Pin=C?-2
+Added Pin To Net: NetName=VFB Pin=C?-2
+Added Pin To Net: NetName=VFB Pin=C?-2
+Added Net: Name=VFB
+Added Pin To Net: NetName=VIN Pin=C?-2
+Added Pin To Net: NetName=VIN Pin=C?-2
+Added Pin To Net: NetName=VIN Pin=C?-2
+Added Pin To Net: NetName=VIN Pin=C?-2
+Added Pin To Net: NetName=VIN Pin=P?-2
+Added Pin To Net: NetName=VIN Pin=P?-2
+Added Net: Name=VIN
+Added Pin To Net: NetName=VOUT Pin=C?-1
+Added Pin To Net: NetName=VOUT Pin=C?-1
+Added Pin To Net: NetName=VOUT Pin=R?-2
+Added Pin To Net: NetName=VOUT Pin=R?-2
+Added Net: Name=VOUT
+Added Class: Name=Power
+Added Class: Name=Sheet1
+Added Room: Name=Power
+Added Room: Name=Sheet1

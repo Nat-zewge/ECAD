@@ -1,0 +1,23 @@
+Remove Pin=U?-1 From Net=TRACK
+Remove Pin=U?-1 From Net=TRACK
+Remove Pin=U?-2 From Net=FREQ
+Remove Pin=U?-2 From Net=FREQ
+Remove Pin=U?-3 From Net=PLLIN
+Remove Pin=U?-3 From Net=PLLIN
+Remove Pin=U?-4 From Net=BG
+Remove Pin=U?-4 From Net=BG
+Remove Pin=U?-4 From Net=TG
+Remove Pin=U?-4 From Net=TG
+Remove Pin=U?-6 From Net=RUN
+Remove Pin=U?-6 From Net=RUN
+Remove Pin=U?-7 From Net=SENSE-
+Remove Pin=U?-7 From Net=SENSE-
+Remove Pin=U?-8 From Net=SENSE+
+Remove Pin=U?-8 From Net=SENSE+
+Remove Pin=U?-9 From Net=VFB
+Remove Pin=U?-9 From Net=VFB
+Remove Pin=U?-10 From Net=ITH
+Remove Pin=U?-10 From Net=ITH
+Change Pin Designator/Name:  Old Designator=C?-2 Old Name=2 New Designator =2 New Name=2
+Change Pin Designator/Name:  Old Designator=C?-2 Old Name=2 New Designator =2 New Name=2
+Change Pin Designator/Name:  Old Designator=D?-2 Old Name=K New Designator =K New Name=2
